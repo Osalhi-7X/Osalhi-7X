@@ -74,7 +74,7 @@ class OussamaSalhi:
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oussama-salhi&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Osalhi-7X&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
@@ -236,11 +236,11 @@ class OussamaSalhi:
 
 <div align="center">
 
-<!-- Replace 'oussama-salhi' with your actual GitHub username -->
+<!-- Replace 'Osalhi-7X' with your actual GitHub username -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oussama-salhi/oussama-salhi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oussama-salhi/oussama-salhi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/oussama-salhi/oussama-salhi/output/github-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Osalhi-7X/Osalhi-7X/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Osalhi-7X/Osalhi-7X/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Osalhi-7X/Osalhi-7X/output/github-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
@@ -248,17 +248,17 @@ class OussamaSalhi:
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oussama-salhi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Osalhi-7X&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-salhi&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Osalhi-7X&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170"/>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-salhi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Osalhi-7X&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" height="170"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oussama-salhi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Osalhi-7X&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true" height="170"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
@@ -300,7 +300,7 @@ timeline
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/oussama-salhi">
+  <a href="https://linkedin.com/in/Osalhi-7X">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
@@ -324,7 +324,7 @@ timeline
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=oussama-salhi&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Osalhi-7X&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS"/>
 </div>
 
 <br>
